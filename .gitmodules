@@ -1,0 +1,6 @@
+[submodule "bookkeeper"]
+	path = bookkeeper
+	url = https://github.com/manojap/bookkeeper
+[submodule "Secret-File-Generator--CSharp"]
+	path = Secret-File-Generator--CSharp
+	url = https://github.com/manojap/Secret-File-Generator--CSharp
